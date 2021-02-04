@@ -12,4 +12,11 @@ package ru.geekbrains.JavaCoreForAndroid;
  * v2.0
  */
 public class Lesson1 {
+    public static void main(String[] args) {
+        // Задание №1 "создать проект"
+        System.out.println("Здравствуй мир!");
+        System.out.println("\nПункт №1 Домашнего задания выполнен! Новый проект сформирован.");
+
+    }
+
 }
